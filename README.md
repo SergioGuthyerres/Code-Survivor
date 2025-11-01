@@ -2,6 +2,10 @@
 
 Battle royale de programação em tempo real onde desenvolvedores competem resolvendo desafios de código.
 
+#Notion:
+[https://www.notion.so/Code-Survivor-29ec9f411a7e809ba98bcd0ca20292d8?source=copy_link
+](
+https://www.notion.so/Code-Survivor-29ec9f411a7e809ba98bcd0ca20292d8?source=copy_link)
 ## Status
 
 🏗️ **Em desenvolvimento** - Sprint 1
